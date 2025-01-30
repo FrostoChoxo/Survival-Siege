@@ -2,6 +2,9 @@
 
 Survival Siege is a zombie survival game built in **Unreal Engine 5**. The primary goal of this project was to explore and learn various features of UE5, including AI behavior, character movement, and game mechanics.
 
+[![Showcase Video](https://img.youtube.com/vi/oJM-TG6cJ44/0.jpg)](https://www.youtube.com/watch?v=oJM-TG6cJ44)
+
+
 ## Features
 
 - **Mob Spawning**: Dynamic zombie spawner to create an intense survival experience.

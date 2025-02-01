@@ -59,3 +59,10 @@ This project served as a **comprehensive learning experience** for Unreal Engine
 - 🔷 Using **Blueprints** and **C++** for gameplay mechanics.
 - ⚔️ Creating an **engaging combat system** with weapon mechanics.
 
+## Contributers
+- Harsh Goreja
+
+- Shah Mohammed Siam
+
+- Mohammed Riaz
+
